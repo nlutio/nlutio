@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I’m Tioluwanimi
 
-<!--
-**nlutio/nlutio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I’m a self-taught developer learning web development from the ground up and documenting my journey publicly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Currently Learning
+- HTML (structure & semantics)
+- CSS (layouts & responsiveness)
+- JavaScript (DOM & interactivity)
+
+### 🏗 Building Under
+**Klesi Labs**
+
+### 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/tioluwanimi-lalude-0030a43b1/
+- Email: klesilabs@gmail.com
+
+
+
+
